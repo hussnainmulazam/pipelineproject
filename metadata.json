@@ -1,0 +1,6 @@
+{
+  "name": "AIOps Command",
+  "description": "An elite autonomous artificial intelligence operations command center panel for cluster monitoring, incident management, agent configuration, log inspection, and infrastructure topology visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
